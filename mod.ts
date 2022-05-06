@@ -4,7 +4,7 @@
 import {
   json,
   serve,
-} from "https://deno.land/x/sift@0.4.0/mod.ts";
+} from "https://deno.land/x/sift@0.5.0/mod.ts";
 
 // For all requests to "/" endpoint, we want to invoke home() handler.
 serve({
